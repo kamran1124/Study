@@ -31,7 +31,7 @@ int main()
     
     printf("\nYour words are:\n%s %s %s %s %s\n", str5, str8, str6, str7, str9); //before ранжирование without third \n
     printf("%d", n); 
-    printf("\n%s %s %s %s\n", str1, str2, str3, str4); // after ранжирование with first \n
+    printf("\n%s %s %s %s\n", str1, str2, str3, str4); // after ранжирование wtih first \n
     printf("%d", k);
     printf("%d", l);
     printf("%d\n", j);
