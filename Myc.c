@@ -41,7 +41,7 @@ int main()
         printf("your opponents are / you can choose words from:Психология, Юриспруденция,Прикладная Информатика");
     }
     
-    printf("input any listings (minimum 3 words , maximum 5 words), "); // ранжирование алгоритм
+    printf("input any listings (minimum 3 words , maximum 5 words), "); // ранжирование алгоритм + within the scope of my competence
     printf("Input them with space, input q if none");
     scanf("%s %s %s %s %s", str5, str6, str7, str8, str9); 
   
